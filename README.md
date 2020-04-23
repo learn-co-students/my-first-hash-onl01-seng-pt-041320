@@ -82,6 +82,5 @@ hash["key2"] = "value2"
 
 hash
 #=> {"key1" => "value1", "key2" => "value2"}
-```
 
 Hope you had fun hashing out the ship's inventory!
