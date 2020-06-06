@@ -3,9 +3,7 @@ def my_hash
    your_hash = {
       "key" => nil
    }
-  
 end
-
 
 def shipping_manifest
    # set a variable called `the_manifest`, equal to a hash
@@ -16,7 +14,7 @@ def shipping_manifest
       "porcelain vases" => 2,
       "oil paintings" => 3
     }
-  end
+end
 
 def retrieval
   # Look up the value of the "oil paintings" key in the shipping_manifest hash below
